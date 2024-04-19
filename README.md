@@ -1,2 +1,2 @@
 # solTrade
- crypto trading bot
+Solana Trading Bot with typescript and web3
