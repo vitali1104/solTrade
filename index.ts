@@ -1,7 +1,7 @@
 // dbClient.ts - Singleton MongoDB Client
 import { MongoClient, WithId, Document } from 'mongodb';
 
-const uri = "mongodb+srv://Admin:admin@cluster0.g6rtlxh.mongodb.net/";
+const uri = "mongodb uri";
 let client: MongoClient | null = null;
 
 export function getMongoClient(): MongoClient {
