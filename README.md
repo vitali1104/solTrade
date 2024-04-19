@@ -1,0 +1,2 @@
+# solTrade
+ crypto trading bot
